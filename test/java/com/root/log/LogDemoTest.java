@@ -5,13 +5,13 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-public class HelloLogTest {
+public class LogDemoTest {
 
-	HelloLog h;
+	LogDemo h;
 	
 	@Before
 	public void setUp() throws Exception {
-		h = new HelloLog();
+		h = new LogDemo();
 	}
 
 	@Test

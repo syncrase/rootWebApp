@@ -5,7 +5,7 @@
 <%@page import="org.slf4j.LoggerFactory"%>
 <%@page import="ch.qos.logback.classic.LoggerContext"%>
 <%@page import="ch.qos.logback.core.util.StatusPrinter"%>
-<%@page import="com.root.log.HelloLog"%>
+<%@page import="com.root.log.LogDemo"%>
 <%@page import="java.util.ArrayList"%>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
