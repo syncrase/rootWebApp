@@ -1,4 +1,4 @@
-package com.root.mysql;
+package com.root.databases.mysql;
 
 public class DBInfo {
 

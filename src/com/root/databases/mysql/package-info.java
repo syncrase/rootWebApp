@@ -5,7 +5,7 @@
  * @author I310911
  *
  */
-package com.root.mysql;
+package com.root.databases.mysql;
 /*
  *
  */
